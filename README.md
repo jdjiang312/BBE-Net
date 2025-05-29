@@ -78,7 +78,7 @@ You need to set the config file and checkpoint path for each boost_model in ense
 
 # Test
 ```
-python3 test_ensemble.py -c ./configs/ensemble/ensemble_test.py
+python3 test_ensemble.py -c ./configs/ensemble/ensemble_test_v2.py
 ```
 
 ## Citation
