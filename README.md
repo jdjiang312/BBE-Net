@@ -22,7 +22,7 @@ We adapt the codebase of [Pointcept](https://github.com/Pointcept/Pointcept), wh
 
 We recommend using [anaconda](https://www.anaconda.com/) or [miniconda](https://docs.anaconda.com/miniconda/) to build your virtual environment.
 
-Please follow the [Installation](https://github.com/Pointcept/Pointcept/tree/main#installation) to build your conda environment.
+Please refer to [requirements](./requirements.txt).
 
 ## Notes
 #### Multi-GPU training
