@@ -57,20 +57,20 @@ mask = mask.to(grouped_xyz.device)
 ```
 
 # Training
-### step 1
+#### step 1
 ```
 conda activate your/env/name
 ```
-### step 2
+#### step 2
 ```
 cd your/your/codebase/path
 ```
-### step 3
+#### step 3
 ```
 python3 train_boost.py -c ./configs/ensemble/boost_model_v2.py
 ```
 The training log and checkpoint can be viewed in the [exp](./exp) in the config file
-### step 4
+#### step 4
 ```
 python3 train_ensemble.py -c ./configs/ensemble/ensemble_train_v2.py
 ```
