@@ -5,7 +5,13 @@
 Jundi Jiang</a><sup>1</sup>, Yueqian Shen</a><sup>1</sup>, Jinhu Wang</a><sup>2</sup>, Yufu Zang</a><sup>3</sup>, Weitong Wu</a><sup>1</sup>, Jinguo Wang</a><sup>1</sup>, Junxi Li</a><sup>1</sup>, Vagner Ferreira</a><sup>1</sup>
 
 <div align="center">
-</a><sup>1</sup>School of Earth Sciences and Engineering，Hohai University， </a><sup>2</sup>Institute for Biodiversity and Ecosystem Dynamics (IBED)， University of Amsterdam， </a><sup>2</sup>School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology
+  
+</a><sup>1</sup>School of Earth Sciences and Engineering，Hohai University， 
+  
+</a><sup>2</sup>Institute for Biodiversity and Ecosystem Dynamics (IBED)， University of Amsterdam， 
+
+</a><sup>3</sup>School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology
+
 
 ![teaser](./doc/BBE-Net.png)
 
