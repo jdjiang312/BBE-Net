@@ -88,6 +88,7 @@ python3 test_ensemble.py -c ./configs/ensemble/ensemble_test_v2.py
 ```
 
 ## Citation
+If you find this work useful for your research, please cite our paper:
 ```
 @article{jiang2025boosted,
   title={Boosted bagging: A hybrid ensemble deep learning framework for point cloud semantic segmentation of shield tunnel leakage},
